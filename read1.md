@@ -7,10 +7,11 @@
 >
   How PageS uSe Structure 
   * Think about the stories you read in a newspaper: for each story, there will be a headline, some text, and possibly some images. If the  article is a long piece, there may be subheadings that split the story into separate sections or quotes from those involved. Structure helps readers understand the stories in the newspaper 1
-   * The structure is very similar when a news story is viewed online (although it may also feature audio or video). This is illustrated on the right with a copy of a newspaper alongside the corresponding article on its website. 2
+   * The structure is very similar when a news story is viewed online (although it may also feature audio or video). This is illustrated on the right with a copy of a newspaper alongside the corresponding article on its website. 2 
    * Now think about a very different type of document — an insurance form. Insurance forms often have headings for different sections, and each section contains a list of questions with areas for you to fill in details or checkboxes to tick. Again, the structure is very similar online.3
 
 >
+
 
 
 
