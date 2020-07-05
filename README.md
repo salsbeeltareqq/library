@@ -1,7 +1,7 @@
 
 file number  | link
 ------------ | -------------
-read1        | [read1](https://salsbeeltareqq.github.io/readingnotes-2/)
+read1        | [read1](https://salsbeeltareqq.github.io/readingnotes-2/read1.md)
 read2        | [read2](https://salsbeeltareqq.github.io/readingnotes-2/)
 read3        | [read3](https://salsbeeltareqq.github.io/readingnotes-2/)
 read4        | [read4](https://salsbeeltareqq.github.io/readingnotes-2/)
