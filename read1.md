@@ -54,5 +54,5 @@ Each form control is given a name, and the text the  X user types in or the valu
  cool          :sunglasses:       |    " :sunglasses:"
  smile         :smile:            |    " :smile:"
  wink          :wink:             |    ":wink:"
- simple smile  :simple_smile:     |    ":simple_smile:"
+ joy                              |    ":joy: "
  scream        :scream:           |    ":scream:"
