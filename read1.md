@@ -30,13 +30,15 @@
 
 > 
 
-   # h2 note1
+   # h2 'note1'
+
     Anything written between the <body> tags will appear in the main browser window .
 
-> # h2 note2
+> # h2 'note2'
+
 You may know that HTML stands for HyperText Markup Language. The HyperText part refers to the fact that HTML allows you to create links that allow visitors to move from one .
 
-> # h2 note3 
+> # h2 'note3 '
 
  page to another quickly and easily. A markup language allows you to annotate text, and these annotations provide additional meaning to the contents of a document. 
 
@@ -46,3 +48,11 @@ You may know that HTML stands for HyperText Markup Language. The HyperText part 
 Each form control is given a name, and the text the  X user types in or the values of the options they select are sent to the server.
 
 
+# h1  cheat shteet 
+ the emoji                        |    the emoji code 
+ ---------                        |     ----------
+ cool       :sunglasses:          |   " :sunglasses:"
+ smile       :smile:              |   " :smile:"
+ wink         :wink:              |    :wink:
+ simple smile :simple_smile:      |    ":simple_smile:"
+ scream :scream:                  |    ":scream:"
