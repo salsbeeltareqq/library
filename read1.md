@@ -52,15 +52,3 @@ Each form control is given a name, and the text the  X user types in or the valu
 >
 
 # h1  cheat shteet 
- the emoji             |    the emoji code 
- ---------             |     ----------
- cool                  |    " :sunglasses:"
- smile                 |    " :smile:"
- wink                  |    ":wink:"
- joy                   |    ":joy: "
- scream                |    ":scream:"
-green heart            |    ":green_heart:"
-purple_heart           |   " :purple_heart:"
-blue heart             |    ":blue_heart:"
-heartpulse             |    ":heartpulse:"
-heartbeat              |    ":heartbeat:"
