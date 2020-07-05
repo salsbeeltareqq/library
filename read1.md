@@ -51,8 +51,8 @@ Each form control is given a name, and the text the  X user types in or the valu
 # h1  cheat shteet 
  the emoji                        |    the emoji code 
  ---------                        |     ----------
- cool       :sunglasses:          |   " :sunglasses:"
- smile       :smile:              |   " :smile:"
- wink         :wink:              |    :wink:
- simple smile :simple_smile:      |    ":simple_smile:"
- scream :scream:                  |    ":scream:"
+ cool          :sunglasses:       |    " :sunglasses:"
+ smile         :smile:            |    " :smile:"
+ wink          :wink:             |    ":wink:"
+ simple smile  :simple_smile:     |    ":simple_smile:"
+ scream        :scream:           |    ":scream:"
