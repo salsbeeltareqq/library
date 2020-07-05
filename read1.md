@@ -10,6 +10,7 @@
    * The structure is very similar when a news story is viewed online (although it may also feature audio or video). This is illustrated on the right with a copy of a newspaper alongside the corresponding article on its website. 2 
    * Now think about a very different type of document — an insurance form. Insurance forms often have headings for different sections, and each section contains a list of questions with areas for you to fill in details or checkboxes to tick. Again, the structure is very similar online.3
 
+
 >
 
 
@@ -49,6 +50,7 @@ You may know that HTML stands for HyperText Markup Language. The HyperText part 
 Each form control is given a name, and the text the  X user types in or the values of the options they select are sent to the server.
 
 >
+
 # h1  cheat shteet 
  the emoji             |    the emoji code 
  ---------             |     ----------
