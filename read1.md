@@ -11,12 +11,15 @@
    * Now think about a very different type of document — an insurance form. Insurance forms often have headings for different sections, and each section contains a list of questions with areas for you to fill in details or checkboxes to tick. Again, the structure is very similar online.3
 
 
- the tag     |  
------------- | -------------|
-     <p>     | They appear on the opening tag of the element and are made up of two parts: a name and a  value separated by an equals sign| 
-     <body>  | Everything inside this element is shown inside the main browser window.      |
-     <title> | you usually type in the URL of the page you want to visit, or on the tab for that page (if your browser uses tabs to allow you to view multiple pages at the same time).
-     <input> |  to create a single line text box for search queries
+        the tag         |  dscrip
+        ------------    | -------------
+     <p>                | They appear on the opening tag of the element and are made up of two parts: a name and 
+                        |   a  value separated by an equals sign 
+     <body>             | Everything inside this element is shown inside the main browser window.      
+                        |
+     <title>            | you usually type in the URL of the page you want to visit, or on the tab for that page 
+                        |  (if your browser uses tabs to allow you to view multiple pages at the same time).
+     <input>            |  to create a single line text box for search queries
     
 
 
