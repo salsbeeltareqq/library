@@ -50,5 +50,4 @@ You may know that HTML stands for HyperText Markup Language. The HyperText part 
 Each form control is given a name, and the text the  X user types in or the values of the options they select are sent to the server.
 
 >
-
-# h1  cheat shteet 
+ 
