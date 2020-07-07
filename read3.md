@@ -5,7 +5,7 @@
  <text>                       |     
                               |
  <dl>                         |   The definition list is created with the <dl> element and usually consists of
-                              |    series of terms and their defintion                       |     
+                              |    series of terms and their defintion                          
 
 
 
@@ -42,7 +42,7 @@
  border-width: 2px 1px 1px 2px;
  The values here appear in clockwise order: top, right, bottom, left.
   BorDer WiDth 
-  
+
 
 
 
