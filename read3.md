@@ -1,11 +1,11 @@
   tag                         |     dissction 
  -------------------          |      --------------------
- '<li>'                       |     there is 2 type of list <ul><ol>Each item in the list is placed between an
-                              |     opening <li> tag and a closing </li> tag. (The li stands for list item.)
+ '<li>'                       |    ' there is 2 type of list <ul><ol>Each item in the list is placed between an
+                              |     opening <li> tag and a closing </li> tag. (The li stands for list item.)'
  '<text>'                     |     
                               |
- '<dl> '                      |   The definition list is created with the <dl> element and usually consists of
-                              |    series of terms and their defintion                          
+ '<dl>'                       |   'The definition list is created with the <dl> element and usually consists of
+                              |    series of terms and their defintion '                         
 
 
 
