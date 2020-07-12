@@ -12,7 +12,7 @@ Store the newly created object in a variable so you can access its properties an
 Use the this variable within methods so you can access the object's properties and methods from inside.
 
 
-# Chapter 6: “Tables” (pp.126-145):
+# Chapter 6: Tables 
 Table : represnts information in a grid format. Examples of tables include financial reports , TV schedules, and sports results.
 
 Basic table structure: <table>, <tr>, <td>, <th>
@@ -31,3 +31,28 @@ The window object: The window object represents the current browser window or ta
 THE DOCUMENT OBJECT: The topmost object in the Document Object Model (or DOM) is the document object. It represents the web page loaded into the current browser window or tab. You meet its child objects in Chapter 5.
 
 In JavaScript there are six data types: Five of them are described as simple (or primitive) data types. The sixth is the object (and is referred to as a complex data type).
+
+
+
+## JavaScript Chapter 3 *(Functions, Methods and Objects)*
+
+- Functions allow you to group a set of related statements together that represent a single task.
+- Functions can take parameters.
+- An Object is a series of variables and functions that represent something from the world around you.
+- In an Object, variables are known as properties and functions as methods. 
+- Web browsers implement onjects that represent both thr browser windows and the document loaded into the browser window.
+- JavaScript has several built-in objects suchs as String, Number, Math, and Date.
+Arrays and objects can be used to create complex data sets. 
+
+Literal Notation:
+
+```
+var hotel = { 
+  name: 'Quay', 
+  rooms: 40, 
+  booked: 25, 
+  checkAvailability: function() { 
+    return this.rooms - this.booked; 
+  } 
+} 
+```
