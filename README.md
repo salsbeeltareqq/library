@@ -4,11 +4,11 @@ file number  | link
 read1        | [read1](https://salsbeeltareqq.github.io/readingnotes-2/read1.md)
 read2        | [read2](https://salsbeeltareqq.github.io/readingnotes-2/read2.md)
 read3        | [read3](https://salsbeeltareqq.github.io/readingnotes-2/read3.md)
-read4        | [read4](https://salsbeeltareqq.github.io/readingnotes-2/read4.mdj)
-read5        | [read5](https://salsbeeltareqq.github.io/readingnotes-2/)
-read6        | [read6](https://salsbeeltareqq.github.io/readingnotes-2/)
-read7        | [read7](https://salsbeeltareqq.github.io/readingnotes-2/)      | 
-read8        | [read8](https://salsbeeltareqq.github.io/readingnotes-2/)
+read4        | [read4](https://salsbeeltareqq.github.io/readingnotes-2/read4.md)
+read5        | [read5](https://salsbeeltareqq.github.io/readingnotes-2/read5.md)
+read6        | [read6](https://salsbeeltareqq.github.io/readingnotes-2/read6.md)
+read7        | [read7](https://salsbeeltareqq.github.io/readingnotes-2/read7.md)      | 
+read8        | [read8](https://salsbeeltareqq.github.io/readingnotes-2/read8.md)
 read9        | [read9](https://salsbeeltareqq.github.io/readingnotes-2/)
 read10       | [read10](https://salsbeeltareqq.github.io/readingnotes-2/)
 read11       | [read11](https://salsbeeltareqq.github.io/readingnotes-2/)
